@@ -1,0 +1,36 @@
+body{
+  font-family: sans-serif;
+  background-color: #1E8F11;
+  color: #113B0C;
+  font-size: 20px;
+  margin: 0px;
+  padding: 20px;
+}
+
+a{
+    color: #A5EB9E;
+}
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    background-color: #237819;
+    padding: 15px;
+    border-radius: 20px;
+    margin: 20px;
+    border:2px green;
+}
+
+nav{
+    text-align: center;
+}
+footer{
+    background-color: #237819;
+    padding: 5px;
+    text-align: center;
+}
