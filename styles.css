@@ -9,10 +9,13 @@ body{
 
 a{
     color: #A5EB9E;
+    padding: 10px;
 }
+
 h1{
     text-align: center;
 }
+
 
 h2{
     text-align: center;
@@ -29,6 +32,7 @@ p{
 nav{
     text-align: center;
 }
+
 footer{
     background-color: #237819;
     padding: 5px;
